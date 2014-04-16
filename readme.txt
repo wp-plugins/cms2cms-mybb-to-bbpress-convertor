@@ -33,6 +33,13 @@ This automated converter will help you move all the content from myBB to bbPress
 
 The plugin installs a connection bridge on WordPress that lets transfer the data from myBB to bbPress.
 
+= Video =
+[youtube https://www.youtube.com/watch?v=llITJSJSAeo]
+
+More info:http://www.cms2cms.com/supported-cms/mybb-to-bb-press-migration/
+
+
+
 == Installation ==
 
 1. Download the plugin zip file
