@@ -1,6 +1,6 @@
 ﻿=== CMS2CMS: myBB to bbPress Convertor   ===
 Contributors: cms2cms
-Tags: myBB to bbPress, myBB to bbPress mirgation, convert myBB to bbPress, migrate myBB to bbPress
+Tags: myBB to bbPress, myBB to bbPress migration, convert myBB to bbPress, migrate myBB to bbPress, bbPress, mybb
 Requires at least: 3.0.0
 Tested up to: 3.8
 Stable tag: 3.6.2
