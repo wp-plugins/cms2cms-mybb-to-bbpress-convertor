@@ -1,8 +1,8 @@
 <?php
 /*
-    Plugin Name: CMS2CMS MYBB to WordPress migration
+    Plugin Name: CMS2CMS MyBB to WordPress migration
     Plugin URI: http://www.cms2cms.com
-    Description: Migrate your website content from MYBB to WordPress easily and automatedly in just a few simple steps.
+    Description: Migrate your website content from MyBB to WordPress easily and automatedly in just a few simple steps.
     Version: 1.0.1
     Author: MagneticOne
     Author URI: http://magneticone.com
