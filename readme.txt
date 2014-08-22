@@ -13,6 +13,9 @@ This automated converter will help you move all the content from myBB to bbPress
 
 This automated converter will help you move all the content from myBB to bbPress.
 
+* *There is Free Demo available (migration of limited number of posts, threads, etc.).*
+* *Full Migration starts from $39.*
+
 = Here’s what you’ll be able to migrate: =
 * **categories**
 * **replies** 
@@ -37,7 +40,6 @@ The plugin installs a connection bridge on WordPress that lets transfer the data
 [youtube https://www.youtube.com/watch?v=llITJSJSAeo]
 
 More info:http://www.cms2cms.com/supported-cms/mybb-to-bb-press-migration/
-
 
 
 == Installation ==
