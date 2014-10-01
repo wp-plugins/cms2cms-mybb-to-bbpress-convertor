@@ -2,7 +2,7 @@
 Contributors: cms2cms
 Tags: myBB to bbPress, myBB to bbPress migration, convert myBB to bbPress, migrate myBB to bbPress, bbpress, mybb, bbpress migration, plugin
 Requires at least: 3.0.0
-Tested up to: 3.9.1
+Tested up to: 4.0
 Stable tag: 3.6.2
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -39,8 +39,7 @@ The plugin installs a connection bridge on WordPress that lets transfer the data
 = Video =
 [youtube https://www.youtube.com/watch?v=llITJSJSAeo]
 
-More info: http://www.cms2cms.com/supported-cms/mybb-to-bb-press-migration/
-
+More info: http://www.cms2cms.com/supported-cms/mybb-to-bb-press-migration/?utm_source=myBB&utm_medium=Link&utm_campaign=WordPress_plugins
 
 == Installation ==
 
