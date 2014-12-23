@@ -39,10 +39,10 @@ The plugin installs a connection bridge on WordPress that lets transfer the data
 = Video =
 [youtube https://www.youtube.com/watch?v=llITJSJSAeo]
 
-Our Support Team is available via phone, Live Chat and Email (Technical support) during the following hours:
-Phone support – 24 hours a day, Monday – Friday
-Live Chat support – 24 hours a day, Monday – Friday
-Technical support – from 11 am to 7 pm GMT +2, Monday – Friday
+= Our Support Team is available via phone, Live Chat and Email (Technical support) during the following hours: = 
+- Phone support – 24 hours a day, Monday – Friday
+- Live Chat support – 24 hours a day, Monday – Friday
+- Technical support – from 11 am to 7 pm GMT +2, Monday – Friday
 
 More info: http://www.cms2cms.com/supported-cms/mybb-to-bb-press-migration/?utm_source=myBB&utm_medium=Link&utm_campaign=WordPress_plugins
 
